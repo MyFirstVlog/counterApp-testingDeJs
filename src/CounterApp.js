@@ -24,7 +24,7 @@ const ContadorApp = ({value} ) => {
     return(
         <>
             <h1>CounterApp</h1>
-            <h2 id = 'h2Text'> { valor } </h2>
+            <h2 id = 'h2Text'>{valor}</h2>
             <button id='btn' onClick = {incrementarValue}>+ 1</button>
             <button onClick= {resetValue}>Reset</button>
             <button onClick = {substractValue}>-1</button>

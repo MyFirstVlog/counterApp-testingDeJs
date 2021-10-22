@@ -1,4 +1,4 @@
-import {getSaludo} from '../../base/02-template-string'
+import {getSaludo} from '../base/02-template-string'
 
 describe('Pruebas en el archivo demo.test.js', () => { //Sirve para agrupar las pruebas 
     

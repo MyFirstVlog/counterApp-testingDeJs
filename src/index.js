@@ -7,6 +7,6 @@ import ContadorApp from "./CounterApp"
 
 
 const divRoot = document.querySelector('#app')
-
-ReactDOM.render(<ContadorApp value={7} />,divRoot) //Componente Padre
+ReactDOM.render(< ContadorApp />,divRoot) //Componente Padre
+// ReactDOM.render(<ContadorApp value={7} />,divRoot) //Componente Padre
 

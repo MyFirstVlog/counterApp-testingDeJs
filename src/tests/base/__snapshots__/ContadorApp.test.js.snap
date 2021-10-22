@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas tecnicas de la app del super contador web verificacion del snapshot renderizado  1`] = `
+<Fragment>
+  <h1>
+    CounterApp
+  </h1>
+  <h2
+    id="h2Text"
+  >
+    7
+  </h2>
+  <button
+    id="btn"
+    onClick={[Function]}
+  >
+    + 1
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    Reset
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    -1
+  </button>
+</Fragment>
+`;
